@@ -36,6 +36,7 @@ public class Ej6rel2 {
        else 
         	System.out.println("No existe");
         
+       rectas.close();
 	}
 
 }
